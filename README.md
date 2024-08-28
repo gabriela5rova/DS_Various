@@ -1,1 +1,1 @@
-# DataScience_SoftUniCourse
+# DataScience
