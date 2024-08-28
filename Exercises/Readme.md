@@ -23,6 +23,7 @@ Here are some of the exercises currently available in this repository:
 
 - **Exercise 1**: Data scraping
 - **Exercise 2**: Olympics Comments Exploration
+- **Exercise 3**: Moving line chart for NVIDIA and partners with NVIDIA earnings calls dates
 Check the individual folders for detailed descriptions, instructions, and code.
 
 ## Planned Exercises 📅
